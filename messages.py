@@ -1,0 +1,28 @@
+
+
+ADVENT_MESSAGES = {
+    1: "🎄 **Day 1:** A cozy start! Here’s a Christmas tree emoji: 🎄",
+    2: "❄️ **Day 2:** Let it snow! Here’s a snowflake: ❄️",
+    3: "🍪 **Day 3:** Fresh holiday cookies for you!",
+    4: "🧦 **Day 4:** A warm Christmas sock!",
+    5: "☕ **Day 5:** A cup of hot chocolate!",
+    6: "🕯️ **Day 6:** A peaceful holiday candle.",
+    7: "🎁 **Day 7:** A gift box! What's inside? Only you know! 🎁",
+    8: "🌟 **Day 8:** A shining golden star!",
+    9: "🦌 **Day 9:** Meet one of Santa's reindeer!",
+    10: "🎅 **Day 10:** Santa is watching 👀",
+    11: "🎶 **Day 11:** Carol time!",
+    12: "🔔 **Day 12:** Jingle bells!",
+    13: "🍫 **Day 13:** A chocolate advent treat!",
+    14: "🧸 **Day 14:** A soft Christmas teddy bear.",
+    15: "🧁 **Day 15:** Holiday cupcake!",
+    16: "📜 **Day 16:** A scroll with warm wishes.",
+    17: "🍬 **Day 17:** Candy cane time!",
+    18: "⛄ **Day 18:** Build a snowman!",
+    19: "🎨 **Day 19:** A holiday drawing kit.",
+    20: "🎇 **Day 20:** Let the festive sparks fly!",
+    21: "🧤 **Day 21:** Warm winter gloves.",
+    22: "🕯️ **Day 22:** Another cozy candle.",
+    23: "🎵 **Day 23:** Christmas music vibes.",
+    24: "🎁🎁 **Day 24:** The BIG gift! Merry Christmas! 🎄",
+}
